@@ -1,5 +1,3 @@
 * xref:index.adoc[]
 * tutorials
-** kubernetes
-***xref:tutorials/kubernetes/build-a-labview-app.adoc[]
-***xref:tutorials/kubernetes/build-a-java-app-with-maven.adoc[]
+** xref:tutorials/index.adoc[]
