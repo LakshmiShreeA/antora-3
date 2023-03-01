@@ -1,5 +1,5 @@
-=index
-:navtitle: index
+= Welcome to Component B!
+:navtitle: component1
 ---
 layout: documentation
 title: Tutorials overview
