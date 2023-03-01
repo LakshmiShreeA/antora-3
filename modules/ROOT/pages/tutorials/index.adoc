@@ -1,3 +1,5 @@
+=index
+:navtitle: index
 ---
 layout: documentation
 title: Tutorials overview
