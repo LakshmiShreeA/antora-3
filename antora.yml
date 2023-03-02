@@ -9,4 +9,4 @@ asciidoc:
 nav:
 - modules/ROOT/nav.adoc
 extensions:
-  - extension.js
+  - extension1.js
